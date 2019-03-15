@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0
+}
+.mainboard {
+    background-image: url(../menu/image/back.png);
+    background-size: 100% 100%;
+}
+
+.header {
+    background-color: #330c0c;
+    width: 100%;
+    height: 100px;
+}
+
+.nav-menu a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.nav-menu li {
+    color: #ffffff;
+    float: left;
+    padding: 34px;
+    font-size: 20pt;
+    list-style: none;
+}
+
+.nav-menu li {
+    color: #ffffff;
+    float: left;
+    padding: 34px;
+    font-size: 20pt;
+    list-style: none;
+}
