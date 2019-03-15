@@ -2,15 +2,20 @@
     margin: 0;
     padding: 0
 }
-.mainboard {
+
+.background {
     background-image: url(../menu/image/back.png);
     background-size: 100% 100%;
 }
 
 .header {
-    background-color: #330c0c;
+    background-color: #6fc466;
     width: 100%;
     height: 100px;
+}
+
+.mainboard {
+    width: 100%;
 }
 
 .nav-menu a {
@@ -32,4 +37,10 @@
     padding: 34px;
     font-size: 20pt;
     list-style: none;
+}
+
+.footer {
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
 }

@@ -10,7 +10,7 @@
 </head>
 
 <body>
-    <div class="mainboard">
+    <div class="background">
         <div class="header">
             <?php wp_nav_menu([
                 'theme_location'  => 'menunav',
@@ -28,6 +28,10 @@
             ]);
             ?>
         </div>
+        <div class="mainboard">
+            <article class="posts"></article>
+        </div>
+        <div class="footer"></div>
     </div>
 </body>
 
